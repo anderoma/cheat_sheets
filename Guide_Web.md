@@ -1,32 +1,34 @@
-## Liens utiles pour faire son site Web
+<center> <h1> Liens utiles pour faire son site Web </h1> </center>
 
-https://domainr.com/
-# acheter son nom de domaine
-https://fr.godaddy.com/
+## Voir les noms de domaines disponible
+- https://domainr.com/
 
-Banque d'image:
-https://www.pexels.com/
-https://unsplash.com/
-https://picsum.photos/
+## Acheter son nom de domaine
+- https://fr.godaddy.com/
 
-Banque d'icônes, logo:
-https://fontawesome.com/icons
+## Banque d'image:
+- https://www.pexels.com/
+- https://unsplash.com/
+- https://picsum.photos/
 
-Police, caractère:
-https://fonts.google.com/
+## Banque d'icônes, logo:
+- https://fontawesome.com/icons
+- http://fizzed.com/oss/font-mfizz
 
-https://getbootstrap.com/
-https://getbootstrap.com/docs/4.3/components/navbar/
+## Police, caractère:
+- https://fonts.google.com/
+- https://getbootstrap.com/
+- https://getbootstrap.com/docs/4.3/components/navbar/
 
-Page type:
-https://getbootstrap.com/docs/4.3/examples/
+## Page type:
+- https://getbootstrap.com/docs/4.3/examples/
 
-Design + , thèmes:
-https://bootswatch.com/
-https://bootswatch.com/flatly/
+## Design + , thèmes:
+- https://bootswatch.com/
+- https://bootswatch.com/flatly/
 
-Thèmes sites:
-https://startbootstrap.com/
+## Thèmes sites:
+- https://startbootstrap.com/
 
-# (front) voir si ca s'affiche dans les nav 
-https://caniuse.com/#search=border-radius
+## (front) voir si ca s'affiche dans les nav 
+- https://caniuse.com/#search=border-radius
