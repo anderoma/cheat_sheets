@@ -1,7 +1,7 @@
-# Déployer une application heroku avec ruby on rails 
+# Déployer une application Heroku avec Ruby on Rails 
 
 ## 1. Lancement
-Commencer par créer une nouvelle appli rails.
+Commencer par créer une nouvelle appli Rails.
 
 ! Attention de créer une app rails avec une base de donnée PostGreSQL parce que Heroku utilise cette base de donnée.
 
@@ -30,8 +30,8 @@ git push heroku master
 Si vous utilisez gratuitement heroku, l'hébergeur de votre site se met en veille au bout de 30 min.
 Pour remedier à ça et, garder disponible votre site web à tout moment, utiliser [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler).
 
-Commence par créer une Rake task dans ton app rails:
-dans lib/tasks créer un fichier schedule.rake
+Commence par créer une Rake task dans ton app Rails, 
+dans `lib/tasks` créer un fichier schedule.rake
 
 ```desc "Pings PING_URL to keep a dyno alive"
 task :dyno_ping do
