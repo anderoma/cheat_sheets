@@ -6,11 +6,11 @@ rn='rails new -d postgresql'
 ``
 pour crée un nouveau projet ruby on rails avec une base de donnée postgresql pour permettre de déployer plus facilement sur Heroku.
 
-Crée ton projet :
+- Crée ton projet :
 ```shell
 rn AppName
 ```
-Va dans le projet :
+- Va dans le projet :
 ```shell
 cd AppName
 ```
