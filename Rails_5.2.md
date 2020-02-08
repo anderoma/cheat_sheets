@@ -31,7 +31,7 @@ rails db:create
 rails db:migrate
 ````
 
-- Pour créer le <span style="color:red">controller</span> User <strong>(Users au Pluriel)</strong> :
+- Pour créer le <span style="color: #33A2FF">controller</span> User <strong>(Users au Pluriel)</strong> :
 ```shell
 rails g controller Users index show
 ```
