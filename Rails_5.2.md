@@ -39,4 +39,6 @@ rails g controller Users index show
 
 
 
-<center>Merci [THP](https://www.thehackingproject.org/) ❤️</center>
+<p align="center"> 
+Merci <a href="https://www.thehackingproject.org/">THP</a> ❤️ 
+</p>
