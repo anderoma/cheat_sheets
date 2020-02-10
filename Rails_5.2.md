@@ -16,7 +16,7 @@ rn AppName
 cd AppName
 ```
 
-- Pour créer un model User <strong>(User au Singulier)</strong>:
+- Pour créer un <strong>model</strong> User <strong>(User au Singulier)</strong>:
 ```shell
 rails g model User name:string email:string 
 ```
@@ -31,7 +31,7 @@ rails db:create
 rails db:migrate
 ````
 
-- Pour créer le <font color="#33A2FF">controller</font> User <strong>(Users au Pluriel)</strong> :
+- Pour créer le <strong>controller</strong> User <strong>(Users au Pluriel)</strong> :
 ```shell
 rails g controller Users index show
 ```
