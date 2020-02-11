@@ -59,7 +59,7 @@ rails db:migrate
 rails d migration nom_de_ta_migration 
 ```
 
-- Revient en arrière sur la dernière migration <strong>(= la met en down)</strong>.
+- Revient en arrière sur la dernière migration **(= la met en down)**.
 ```shell
 rails db:rollback STEP=1
 ```
@@ -78,7 +78,7 @@ Rails.application.config.assets.paths << Rails.root.join(‘lib')
 ````
 
 Ajouter dans `app/assets/stylesheets/application.css`
-```javascript
+```css
 *= require bootstrap/bootstrap.min
 ```
 
