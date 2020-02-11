@@ -5,10 +5,10 @@
 laravel new AppName
 ```
 - Lancer le serveur :
-```shell
-php artisan valet
-```
-ou http://AppName.test
+`php artisan valet` ou http://AppName.test
+
+### Routes :
+./routes/web.php
 
 - Créé un model post :
 php artisan make:model Post
