@@ -1,5 +1,8 @@
 # Laravel 6
 - [Routes](#routes-)
+- [Views](#views-)
+- [Créé une base de donnée](#créé-une-base-de-donnée-)
+- [Migrations](#migrations-)
 
 - Création d'un nouveau projet :
 ```shell
