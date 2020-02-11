@@ -3,6 +3,7 @@
 - [Insérer une Image](#insérer-une-image-)
 - [Ajouter un thème](#ajouter-un-thème-)
 
+## Start :
 J'utilise un alias 
 ``
 rn='rails new -d postgresql'
