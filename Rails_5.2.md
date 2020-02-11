@@ -1,5 +1,6 @@
 # Démarer avec ruby on rails 5.2
 - [Migrations](#migrations-)
+- [Insérer une Image](#)
 
 J'utilise un alias 
 ``
@@ -63,6 +64,10 @@ rails d migration nom_de_ta_migration
 rails db:rollback STEP=1
 ```
 
+## Insérer une image :
+```ruby
+<%= image_tag "event.jpg", width: 500 %>
+```
 
 <p align="center"> 
 Merci <a href="https://www.thehackingproject.org/">THP</a> ❤️ 
