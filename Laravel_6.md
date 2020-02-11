@@ -30,6 +30,7 @@ php artisan make:model Post
 php artisan make:controller PostsController
 ```
 
+## Migrations :
 - Créé une migration :
 ```shell
 php artisan make:migration create_posts_table
