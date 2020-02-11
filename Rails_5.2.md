@@ -45,12 +45,17 @@ rails generate migration nom_de_ta_migration
 - Status des migrations (te sort un joli tableau pour voir où tu en es dans tes migrations entre les up et les down)
 ```shell
 rails db:migrate:status
-````
+```
 
 - Passe toutes les migrations en attente <strong>(= les mets en up)</strong>
-$ rails db:migrate : passe toutes les migrations en attente (= les mets en up)
-$ rails d migration nom_de_ta_migration (= supprime une migration, que si elle est DOWN)
+```shell
+rails db:migrate
+````
 
+- Supprime une migration <strong>(= supprime une migration, que si elle est DOWN)</strong>
+```shell
+rails d migration nom_de_ta_migration 
+```
 
 
 <p align="center"> 
