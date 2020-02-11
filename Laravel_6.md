@@ -30,6 +30,11 @@ php artisan make:model Post
 php artisan make:controller PostsController
 ```
 
+- Créé une migration 
+```shell
+php artisan make:migration create_posts_table
+```
+
 ## Créé une base de donnée :
 ```shell
 mysql -u root
