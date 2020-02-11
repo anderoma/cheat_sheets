@@ -8,7 +8,6 @@ laravel new AppName
 ``php artisan valet`` ou http://AppName.test
 
 ## Routes :
-./routes/web.php
 ```php
 #./routes/web.php
 
