@@ -29,3 +29,9 @@ php artisan make:model Post
 ```shell
 php artisan make:controller PostsController
 ```
+
+## Créé une base de donnée :
+```shell
+mysql -u root
+create database database_name
+```
