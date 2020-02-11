@@ -1,7 +1,7 @@
 # Démarer avec ruby on rails 5.2
 - [Migration](#migration-)
 - [Insérer une Image](#insérer-une-image-)
-- [Ajouter un thème](#ajoutez-un-thème-)
+- [Ajouter un thème](#ajouter-un-thème-)
 
 J'utilise un alias 
 ``
