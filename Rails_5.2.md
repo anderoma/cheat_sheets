@@ -1,6 +1,7 @@
 # Démarer avec ruby on rails 5.2
 - [Migrations](#migrations-)
 - [Insérer une Image](#insérer-une-image-)
+- [Ajouter un thème](#ajoutez-un-thème-)
 
 J'utilise un alias 
 ``
@@ -52,14 +53,14 @@ rails db:migrate:status
 - Passe toutes les migrations en attente <strong>(= les mets en up)</strong>
 ```shell
 rails db:migrate
-````
+```
 
-- Supprime une migration <strong>(= supprime une migration, que si elle est DOWN)</strong>
+- Supprime une migration **(= supprime une migration, que si elle est DOWN)** :
 ```shell
 rails d migration nom_de_ta_migration 
 ```
 
-- Revient en arrière sur la dernière migration **(= la met en down)**.
+- Revient en arrière sur la dernière migration **(= la met en down)** :
 ```shell
 rails db:rollback STEP=1
 ```
