@@ -21,4 +21,11 @@ Route::get('/', function () {
 
 
 - Créé un model post :
+```shell
 php artisan make:model Post
+```
+
+- Créé un controller :
+```shell
+php artisan make:controller PostsController
+```
