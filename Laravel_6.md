@@ -5,7 +5,7 @@
 laravel new AppName
 ```
 - Lancer le serveur :
-`php artisan valet` ou http://AppName.test
+``php artisan valet`` ou http://AppName.test
 
 ### Routes :
 ./routes/web.php
