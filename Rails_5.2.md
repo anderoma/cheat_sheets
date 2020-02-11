@@ -78,7 +78,7 @@ Rails.application.config.assets.paths << Rails.root.join(‘lib')
 ````
 
 Ajouter dans `app/assets/stylesheets/application.css`
-```css
+```javascript
 *= require bootstrap/bootstrap.min
 ```
 
