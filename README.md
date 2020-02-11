@@ -1,5 +1,7 @@
 # cheat_sheets
 
+- [Laravel 6](https://github.com/anderoma/cheat_sheets/blob/master/Laravel_6.md)
+
 - [Guide Web](https://github.com/anderoma/cheat_sheets/blob/master/Guide_Web.md)
 
 - [Heroku](https://github.com/anderoma/cheat_sheets/blob/master/Heroku.md)
