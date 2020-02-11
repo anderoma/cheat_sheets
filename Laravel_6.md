@@ -36,6 +36,15 @@ php artisan make:migration create_posts_table
 ```
 ./database/migrations/...create_posts_table.php
 
+- Passe toutes les migrations en attente <strong>(= les mets en up)</strong>
+```shell
+php artisan migrate
+````
+- Status des migrations (te sort un joli tableau pour voir où tu en es dans tes migrations entre les up et les down)
+```shell
+php artisan migrate:status
+```
+
 ## Créé une base de donnée :
 ```shell
 mysql -u root
