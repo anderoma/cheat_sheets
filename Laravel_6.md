@@ -7,7 +7,7 @@ laravel new AppName
 - Lancer le serveur :
 ``php artisan valet`` ou http://AppName.test
 
-### Routes :
+## Routes :
 ./routes/web.php
 ```php
 Route::get('/', function () {
@@ -15,7 +15,7 @@ Route::get('/', function () {
 });
 ```
 
-### Views :
+## Views :
 ./resources/views/welcome.blade.php
 
 
