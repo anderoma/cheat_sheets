@@ -1,5 +1,5 @@
 # Laravel 6
-- [Routes](#routes)
+- [Routes](#routes-)
 
 - Création d'un nouveau projet :
 ```shell
