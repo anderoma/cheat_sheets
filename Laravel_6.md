@@ -1,4 +1,5 @@
 # Laravel 6
+- [Routes](#routes)
 
 - Création d'un nouveau projet :
 ```shell
@@ -47,6 +48,7 @@ php artisan make:migration create_posts_table
 ```shell
 php artisan migrate
 ````
+
 - Status des migrations (te sort un joli tableau pour voir où tu en es dans tes migrations entre les up et les down)
 ```shell
 php artisan migrate:status
