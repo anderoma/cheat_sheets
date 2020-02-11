@@ -9,6 +9,12 @@ laravel new AppName
 
 ### Routes :
 ./routes/web.php
+Route::get('/', function () {
+    return view('welcome');
+});
+
+### Views :
+./resources/views/welcome.blade.php
 
 - Créé un model post :
 php artisan make:model Post
