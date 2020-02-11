@@ -89,6 +89,7 @@ Ajouter dans `app/assets/javascripts/application.js`
 *= require bootstrap/js/bootstrap.bundle.min
 ```
 
+
 <p align="center"> 
 Merci <a href="https://www.thehackingproject.org/">THP</a> ❤️ 
 </p>
