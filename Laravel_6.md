@@ -30,6 +30,12 @@ php artisan make:model Post
 php artisan make:controller PostsController
 ```
 
+## Créé une base de donnée :
+```shell
+mysql -u root
+create database database_name
+```
+
 ## Migrations :
 - Créé une migration :
 ```shell
@@ -46,8 +52,3 @@ php artisan migrate
 php artisan migrate:status
 ```
 
-## Créé une base de donnée :
-```shell
-mysql -u root
-create database database_name
-```
