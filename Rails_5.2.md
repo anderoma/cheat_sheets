@@ -1,6 +1,6 @@
 # Démarer avec ruby on rails 5.2
 - [Migrations](#migrations-)
-- [Insérer une Image](#)
+- [Insérer une Image](#insérer-une-image-)
 
 J'utilise un alias 
 ``
@@ -68,6 +68,20 @@ rails db:rollback STEP=1
 ```ruby
 <%= image_tag "event.jpg", width: 500 %>
 ```
+
+## Ajoutez un thème :
+
+Ajouter dans `config/initializers/assets.rb`
+```ruby
+Rails.application.config.assets.paths << Rails.root.join('vendor')
+Rails.application.config.assets.paths << Rails.root.join(‘lib')
+````
+
+Ajouter dans `app/assets/stylesheets/application.css`
+```css
+*= require bootstrap/bootstrap.min
+```
+
 
 <p align="center"> 
 Merci <a href="https://www.thehackingproject.org/">THP</a> ❤️ 
