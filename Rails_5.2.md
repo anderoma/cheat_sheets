@@ -1,5 +1,5 @@
 # Démarer avec ruby on rails 5.2
-- [Migrations](#migrations-)
+- [Migration](#migration-)
 - [Insérer une Image](#insérer-une-image-)
 - [Ajouter un thème](#ajoutez-un-thème-)
 
@@ -70,8 +70,9 @@ rails db:rollback STEP=1
 <%= image_tag "event.jpg", width: 500 %>
 ```
 
-## Ajoutez un thème :
-
+## Ajouter un thème :
+Commence par télécharger le thème de ton choix.
+Ajoute dans le dossier vendor les fichiers du thème (fichiers css, js, ...)
 Ajouter dans `config/initializers/assets.rb`
 ```ruby
 Rails.application.config.assets.paths << Rails.root.join('vendor')
@@ -83,6 +84,10 @@ Ajouter dans `app/assets/stylesheets/application.css`
 *= require bootstrap/bootstrap.min
 ```
 
+Ajouter dans `app/assets/javascripts/application.js`
+```js
+*= require bootstrap/js/bootstrap.bundle.min
+```
 
 <p align="center"> 
 Merci <a href="https://www.thehackingproject.org/">THP</a> ❤️ 
