@@ -31,11 +31,25 @@ rails db:create
 rails db:migrate
 ````
 
-- Pour créer le <strong>controller</strong> User <strong>(Users au Pluriel)</strong> :
+- Pour créer le <strong>controller</strong> User <strong>(Users au Pluriel)</strong> avec deux méthode show et index :
 ```shell
 rails g controller Users index show
 ```
 
+## Migration :
+- Création d'une migration :
+```shell
+rails generate migration nom_de_ta_migration
+```
+
+- Status des migrations (te sort un joli tableau pour voir où tu en es dans tes migrations entre les up et les down)
+```shell
+rails db:migrate:status
+````
+
+- Passe toutes les migrations en attente <strong>(= les mets en up)</strong>
+$ rails db:migrate : passe toutes les migrations en attente (= les mets en up)
+$ rails d migration nom_de_ta_migration (= supprime une migration, que si elle est DOWN)
 
 
 
