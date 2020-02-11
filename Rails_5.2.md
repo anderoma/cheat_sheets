@@ -2,6 +2,7 @@
 - [Migration](#migration-)
 - [Insérer une Image](#insérer-une-image-)
 - [Ajouter un thème](#ajouter-un-thème-)
+- [Déployer son app sur Heroku](https://github.com/anderoma/cheat_sheets/blob/master/Heroku.md)
 
 ## Start :
 J'utilise un alias 
