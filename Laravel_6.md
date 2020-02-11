@@ -10,6 +10,8 @@ laravel new AppName
 ## Routes :
 ./routes/web.php
 ```php
+#./routes/web.php
+
 Route::get('/', function () {
     return view('welcome');
 });
