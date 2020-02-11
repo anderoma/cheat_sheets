@@ -10,7 +10,7 @@
 laravel new AppName
 ```
 - Lancer le serveur :
-``php artisan valet`` ou http://AppName.test
+``php artisan serve`` ou utilise valet ``valet install`` et http://AppName.test
 
 ## Routes :
 ```php
