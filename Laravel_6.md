@@ -13,6 +13,11 @@ laravel new AppName
 ``php artisan serve`` ou utilise valet ``valet install`` et http://AppName.test
 
 ## Routes :
+
+- Pour voir toutes les routes :
+```shell
+php artisan route:list
+```
 ```php
 #./routes/web.php
 
@@ -58,3 +63,13 @@ php artisan migrate
 php artisan migrate:status
 ```
 
+## Authentification user :
+```shell
+composer require laravel/ui --dev
+```
+```shell
+php artisan ui vue --auth
+```
+```shell
+npm install && npm run dev
+```
