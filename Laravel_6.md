@@ -77,5 +77,6 @@ npm install && npm run dev
 
 ## Liens utiles :
 - https://codesource.io/work-with-laravel-flash-messages/
+- https://www.itsolutionstuff.com/post/laravel-6-flash-message-tutorialexample.html
 - https://www.codementor.io/@pknerd/develop-an-e-commerce-website-with-laravel-5-4-part-7-bdy55gwxe
 - https://github.com/kadnan/golmarket
