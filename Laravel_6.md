@@ -3,6 +3,7 @@
 - [Views](#views-)
 - [Créé une base de donnée](#créé-une-base-de-donnée-)
 - [Migrations](#migrations-)
+- [Liens utiles](#liens-uitiles-)
 
 ## Start :
 - Création d'un nouveau projet :
@@ -74,7 +75,7 @@ php artisan ui vue --auth
 npm install && npm run dev
 ```
 
-## Liens uitiles :
-https://codesource.io/work-with-laravel-flash-messages/
-https://www.codementor.io/@pknerd/develop-an-e-commerce-website-with-laravel-5-4-part-7-bdy55gwxe
-https://github.com/kadnan/golmarket
+## Liens utiles :
+- https://codesource.io/work-with-laravel-flash-messages/
+- https://www.codementor.io/@pknerd/develop-an-e-commerce-website-with-laravel-5-4-part-7-bdy55gwxe
+- https://github.com/kadnan/golmarket
