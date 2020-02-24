@@ -3,7 +3,7 @@
 - [Views](#views-)
 - [Créé une base de donnée](#créé-une-base-de-donnée-)
 - [Migrations](#migrations-)
-- [Liens utiles](#liens-uitiles-)
+- [Liens utiles](#liens-utiles-)
 
 ## Start :
 - Création d'un nouveau projet :
