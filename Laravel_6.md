@@ -76,6 +76,10 @@ npm install && npm run dev
 ```
 
 ## Liens utiles :
+
+- https://medium.com/@juangsalazprabowo/how-to-deploy-a-laravel-app-into-heroku-df55efbf8e4e
+- https://devcenter.heroku.com/articles/getting-started-with-laravel
+
 - https://codesource.io/work-with-laravel-flash-messages/
 - https://www.itsolutionstuff.com/post/laravel-6-flash-message-tutorialexample.html
 - https://www.codementor.io/@pknerd/develop-an-e-commerce-website-with-laravel-5-4-part-7-bdy55gwxe
