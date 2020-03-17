@@ -81,6 +81,7 @@ npm install && npm run dev
 - https://www.baymediasoft.com/blog/laravel/a-complete-guide-10-steps-for-creating-contact-form-in-laravel-5-7
 
 ### Heroku  :
+- https://medium.com/swlh/how-to-host-your-laravel-application-for-free-on-heroku-4789688d444b
 - https://medium.com/@juangsalazprabowo/how-to-deploy-a-laravel-app-into-heroku-df55efbf8e4e
 - https://devcenter.heroku.com/articles/getting-started-with-laravel
 
