@@ -7,6 +7,7 @@
 - https://fr.godaddy.com/
 
 ### Banque d'image:
+- https://pixabay.com/fr/
 - https://www.pexels.com/
 - https://unsplash.com/
 - https://picsum.photos/
