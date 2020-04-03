@@ -1,6 +1,6 @@
 # cheat_sheets
 
-_ [WordPress]()
+- [WordPress](https://github.com/anderoma/cheat_sheets/blob/master/Wordpress.md)
 
 - [Laravel 6](https://github.com/anderoma/cheat_sheets/blob/master/Laravel_6.md)
 
