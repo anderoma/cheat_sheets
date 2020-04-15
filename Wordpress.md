@@ -5,7 +5,13 @@
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
 
 ## Securité
-- [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)(https://kinsta.com/blog/wordpress-login-url/#change-login-page)
+- [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)(https://kinsta.com/blog/wordpress-security/)
+
+- Invest in Secure WordPress Hosting
+- Use Latest PHP Version
+- supprimer les plugins et theme inutile
+- Change Your WordPress Login URL
+utilise le plugin [WPS Hide login](https://wordpress.org/plugins/wps-hide-login/)
 
 
 ## Heroku
