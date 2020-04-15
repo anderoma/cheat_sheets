@@ -14,7 +14,21 @@
 utilise le plugin [WPS Hide login](https://wordpress.org/plugins/wps-hide-login/)
 #### 5. Limit Login Attempts
 utilise le plugin [Cerber security](https://wordpress.org/plugins/wp-cerber/)
-
+#### 6. Use HTTPS for Encrypted Connections
+#### 7. Utilisez le htaccess à son plein potentiel
+```
+AuthUserFile /dev/null
+AuthGroupFile /dev/null
+AuthName "WordPress Admin Access Control"
+AuthType Basic
+<LIMIT GET>
+order deny,allow
+deny from all
+allow from xx.xx.xx.xxx
+allow from xx.xx.xx.xxx
+</LIMIT>
+```
+[trouve ton adress ip](https://www.whatismyip.com/) 
 
 
 ## Heroku
