@@ -9,8 +9,8 @@
 
 #### Invest in Secure WordPress Hosting
 #### Use Latest PHP Version
-#### Supprimer les plugins et theme inutile
-#### Change Your WordPress Login URL
+### Supprimer les plugins et theme inutile
+### Change Your WordPress Login URL
 utilise le plugin [WPS Hide login](https://wordpress.org/plugins/wps-hide-login/)
 
 
