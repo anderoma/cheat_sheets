@@ -7,10 +7,10 @@
 ## Securité
 - [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)(https://kinsta.com/blog/wordpress-security/)
 
-- Invest in Secure WordPress Hosting
-- Use Latest PHP Version
-- supprimer les plugins et theme inutile
-- Change Your WordPress Login URL
+#### Invest in Secure WordPress Hosting
+#### Use Latest PHP Version
+#### Supprimer les plugins et theme inutile
+#### Change Your WordPress Login URL
 utilise le plugin [WPS Hide login](https://wordpress.org/plugins/wps-hide-login/)
 
 
