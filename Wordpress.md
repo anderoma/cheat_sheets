@@ -5,7 +5,8 @@
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
 
 ## Securité
-- [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)
+- [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)(https://kinsta.com/blog/wordpress-login-url/#change-login-page)
+
 
 ## Heroku
 - [Download your code from heroku](https://help.heroku.com/FZDDCBLB/how-can-i-download-my-code-from-heroku)
