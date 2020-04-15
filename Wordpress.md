@@ -12,6 +12,9 @@
 #### 3. Supprimer les plugins et theme inutile
 #### 4. Change Your WordPress Login URL
 utilise le plugin [WPS Hide login](https://wordpress.org/plugins/wps-hide-login/)
+#### 5. Limit Login Attempts
+utilise le plugin [Cerber security](https://wordpress.org/plugins/wp-cerber/)
+
 
 
 ## Heroku
