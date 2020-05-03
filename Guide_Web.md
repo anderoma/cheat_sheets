@@ -2,6 +2,7 @@
 
 ### Voir les noms de domaines disponible
 - https://domainr.com/
+- https://namechk.com/
 
 ### Acheter son nom de domaine
 - https://fr.godaddy.com/
@@ -13,6 +14,7 @@
 - https://picsum.photos/
 
 ### Banque d'icônes, logo:
+- https://thenounproject.com/
 - https://fontawesome.com/icons
 - http://fizzed.com/oss/font-mfizz
 
@@ -20,6 +22,10 @@
 - https://fonts.google.com/
 - https://getbootstrap.com/
 - https://getbootstrap.com/docs/4.3/components/navbar/
+
+### Couleurs:
+- https://color.adobe.com/fr/create
+- [generateur de couleur](https://coolors.co/)
 
 ### Page type:
 - https://getbootstrap.com/docs/4.3/examples/
