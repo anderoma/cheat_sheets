@@ -15,6 +15,7 @@
 
 ### Banque d'icônes, logo:
 - https://thenounproject.com/
+- https://www.flaticon.com/free-icon
 - https://fontawesome.com/icons
 - http://fizzed.com/oss/font-mfizz
 
