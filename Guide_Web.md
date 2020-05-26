@@ -13,6 +13,9 @@
 - https://unsplash.com/
 - https://picsum.photos/
 
+### Ajouter galerie photos instagram :
+- https://lightwidget.com/
+
 ### Banque d'icônes, logo:
 - https://thenounproject.com/
 - https://www.flaticon.com/free-icon
