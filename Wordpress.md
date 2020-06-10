@@ -1,7 +1,7 @@
 # WordPress
 
 - [Template](#template)
-- [Tuto](#insérer-une-image)
+- [Tuto](#tuto)
 - [Extensions](#extensions)
 - [Securité](#securité)
 - [Heroku](#heroku)
