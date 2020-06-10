@@ -1,10 +1,10 @@
 # WordPress
 
-- [Template](#template-)
-- [Tuto](#insérer-une-image-)
-- [Extensions](#extensions-)
-- [Securité](#securité-)
-- [Heroku](#heroku-)
+- [Template](#template)
+- [Tuto](#insérer-une-image)
+- [Extensions](#extensions)
+- [Securité](#securité)
+- [Heroku](#heroku)
 
 ## Template
 [Divi by elegant theme best page builder](https://www.elegantthemes.com/)
