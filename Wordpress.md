@@ -7,25 +7,33 @@
 - [Heroku](#heroku-)
 
 ## Template
+[Divi by elegant theme best page builder](https://www.elegantthemes.com/)
+- https://www.elegantthemes.com/layouts/
+
 
 ## Tuto
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
 
 ## Extensions
 - Yoast SEO : Pour optimiser son référencement ;
-- Social Warfare : Pour ajouter des boutons de partage sociaux ;
-- UpdraftPlus : Pour sauvegarder son site régulièrement ;
+- Monarch : Pour ajouter des boutons de partage sociaux ;
 - WP Super Cache : Pour accélérer le chargement de votre blog ;
+- Cerber Security : Pour protéger votre site ;
+- MonsterInsights : Pour connecter Google Analytics à son site ;
+- All-in-One WP Migration : Exporter ou importer votre site wordpress;  
+- UpdraftPlus : Pour sauvegarder son site régulièrement ;
 - Loco Translate : Pour traduire votre thème ou vos extensions ;
 - DeliPress: Pour envoyer des newsletters directement depuis WordPress ;
-- Cerber Security : Pour protéger votre site ;
-- MonsterInsights : Pour connecter Google Analytics à son site 
 
 
 ## Securité
 - [securisé-wordpress](https://www.hostinger.fr/tutoriels/securiser-wordpress/)(https://kinsta.com/blog/wordpress-security/)
 
 #### 1. Invest in Secure WordPress Hosting
+www.infomaniak.com bon hébergeur avec : 
+- Sauvegarde integré (Base de donneé et hébergeur) Backup facile et rapide
+- Template Elegant theme
+- Extension prenium integré ( Divi bulder, Monarch, Bloom)
 #### 2. Use Latest PHP Version
 #### 3. Supprimer les plugins et theme inutile
 #### 4. Change Your WordPress Login URL
