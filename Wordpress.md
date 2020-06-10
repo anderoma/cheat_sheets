@@ -1,6 +1,7 @@
 # WordPress
 
 - [Template](#template)
+- [Customization](#customization)
 - [Tuto](#tuto)
 - [Extensions](#extensions)
 - [Securité](#securité)
@@ -9,7 +10,11 @@
 ## Template
 [Divi by elegant theme best page builder](https://www.elegantthemes.com/)
 - https://www.elegantthemes.com/layouts/
+- https://divi.express/
 
+## Customization
+- Changer le logo , page de connexion Admin :
+modifier url de l'image dans wp-admin/css/login.min.css
 
 ## Tuto
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
@@ -20,7 +25,12 @@
 - WP Super Cache : Pour accélérer le chargement de votre blog ;
 - Cerber Security : Pour protéger votre site ;
 - MonsterInsights : Pour connecter Google Analytics à son site ;
-- All-in-One WP Migration : Exporter ou importer votre site wordpress;  
+- All-in-One WP Migration : Exporter ou importer votre site wordpress;
+- GDPR Cookie Consent Banner : Bannière cookie ;
+- Really Simple SSL : Passer son site en <strong>https</strong> ;
+- WP Mail SMTP : Envoie mail du Formulaire de contact plus rapide ;
+- WPS Hide Login : Change ton Url de connexion ;
+
 - UpdraftPlus : Pour sauvegarder son site régulièrement ;
 - Loco Translate : Pour traduire votre thème ou vos extensions ;
 - DeliPress: Pour envoyer des newsletters directement depuis WordPress ;
