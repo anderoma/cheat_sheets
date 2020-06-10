@@ -1,6 +1,14 @@
 # WordPress
 
-- [Comment créer un clé d’API Google Maps pour afficher la carte de mon site WordPress](https://www.youtube.com/watch?v=74sL2gWF5wQ&t=14s)
+- [Template](#template-)
+- [Tuto](#insérer-une-image-)
+- [Extensions](#extensions-)
+- [Securité](#securité-)
+- [Heroku](#heroku-)
+
+## Template
+
+## Tuto
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
 
 ## Extensions
@@ -10,7 +18,7 @@
 - WP Super Cache : Pour accélérer le chargement de votre blog ;
 - Loco Translate : Pour traduire votre thème ou vos extensions ;
 - DeliPress: Pour envoyer des newsletters directement depuis WordPress ;
-- SecuPress : Pour protéger et optimiser votre site ;
+- Cerber Security : Pour protéger votre site ;
 - MonsterInsights : Pour connecter Google Analytics à son site 
 
 
