@@ -16,6 +16,18 @@
 - Changer le logo , page de connexion Admin :
 modifier url de l'image dans wp-admin/css/login.min.css
 
+- Changer social icon divi :
+modifier le fichier wp-content/themes/Divi/includes/social_icons.php :
+```php
+<?php if ( 'on' === et_get_option( 'divi_show_linkedin_icon', 'on' ) ) : ?>
+	<li class="et-social-icon et-social-linkedin">
+		<a href="<?php echo esc_url( et_get_option( 'divi_twitter_url', '#' ) ); ?>" class="icon">
+			<span><?php esc_html_e( 'Linkedin', 'Divi' ); ?></span>
+		</a>
+	</li>
+<?php endif; ?>
+```
+
 ## Tuto
 - [Migrer un site WordPress all-in-one-plugin](https://www.creaweb2b.com/migrer-site-wordpress-all-in-one-wp-migration/)
 
