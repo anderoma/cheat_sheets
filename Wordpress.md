@@ -42,10 +42,12 @@ modifier le fichier wp-content/themes/Divi/includes/social_icons.php :
 - Really Simple SSL : Passer son site en <strong>https</strong> ;
 - WP Mail SMTP : Envoie mail du Formulaire de contact plus rapide ;
 - WPS Hide Login : Change ton Url de connexion ;
+- Ultimate member : Meilleur extension de profil utilisateur et d'espace membre pour wordpress;
 
 - UpdraftPlus : Pour sauvegarder son site régulièrement ;
 - Loco Translate : Pour traduire votre thème ou vos extensions ;
 - DeliPress: Pour envoyer des newsletters directement depuis WordPress ;
+
 
 
 ## Securité
